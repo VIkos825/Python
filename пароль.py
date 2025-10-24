@@ -1,0 +1,6 @@
+name = input('Введите имя: ')
+surname = input('Введите фамилию: ')
+email = input('Введите почту: ')
+password = input('Введите пароль: ')
+print('Добро пожаловать, ',name, surname,'!')
+print('Почта: ',email,', Пароль: а вот хер тебе а не пароль')

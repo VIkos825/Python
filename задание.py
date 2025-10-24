@@ -1,0 +1,7 @@
+a = input()
+a = int(a)
+print(a)
+a = bool(a)
+print(a)
+a = str(a)
+print(a)
